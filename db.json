@@ -1,0 +1,140 @@
+{
+  "peliculas": [
+    {
+      "id": "1",
+      "titulo": "Intensamente",
+      "imagen": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8u1nrs",
+      "cartelera": "ANIME",
+      "tiempo": "1h 27min"
+    },
+    {
+      "id": "2",
+    "titulo": "Gru 4. Mi villano favorito",
+      "imagen": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8rvdj5",
+      "cartelera": "ANIME",
+      "tiempo": "1h 19min"
+    },
+    {
+      "id": "3",
+      "titulo": "Orión y la oscuridad",
+      "imagen": "https://pics.filmaffinity.com/orion_and_the_dark-484302577-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8rdbup",
+      "cartelera": "ANIME",
+      "tiempo": "1h 19min"
+    },
+    {
+      "id": "4",
+      "titulo": "Megamind vs. the Doom Syndicate",
+      "imagen": "https://pics.filmaffinity.com/megamind_vs_the_doom_syndicate-420951899-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8s1rxw",
+      "cartelera": "ANIME",
+      "tiempo": "1h 32min"
+    },
+    {
+      "id": "5",
+      "titulo": "Telma, la unicornio",
+      "imagen": "https://pics.filmaffinity.com/thelma_the_unicorn-206191862-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8wuoys",
+      "cartelera": "ANIME",
+      "tiempo": "1h 34min"
+    },
+    {
+      "id": "6",
+      "titulo": "Amigos imaginarios",
+      "imagen": "https://pics.filmaffinity.com/if-160232365-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8wnpxo",
+      "cartelera": "ANIME",
+      "tiempo": "1h 13min"
+    },
+    {
+      "id": "7",
+      "titulo": "Madame Web",
+      "imagen": "https://pics.filmaffinity.com/madame_web-759178425-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8pnlnq",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 31min"
+    },
+    {
+      "id": "8",
+      "titulo": "Dune: Parte Dos",
+      "imagen": "https://pics.filmaffinity.com/dune_part_two-802143593-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8qhz56",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 47min"
+    },
+    {
+      "id": "9",
+      "titulo": "Atrapados en el abismo",
+      "imagen": "https://pics.filmaffinity.com/no_way_up-335653411-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8tcuai",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 47min"
+    },
+    {
+      "id": "10",
+      "titulo": "Cazafantasmas: Imperio helado",
+      "imagen": "https://pics.filmaffinity.com/ghostbusters_frozen_empire-289306563-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8tok2m",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 22min"
+    },
+    {
+      "id": "11",
+      "titulo": "Godzilla y Kong: El nuevo imperio",
+      "imagen": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8sr4i4",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 29min"
+    },
+    {
+      "id": "12",
+      "titulo": "Nahir",
+      "imagen": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8wwojs",
+      "cartelera": "ACCION",
+      "tiempo": "1h 41min"
+    },
+    {
+      "id": "13",
+      "titulo": "Rivales",
+      "imagen": "https://pics.filmaffinity.com/challengers-325765300-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8t2umk",
+      "cartelera": "ACCION",
+      "tiempo": "1h 25min"
+    },
+    {
+      "id": "14",
+      "titulo": "En las profundidades del Sena",
+      "imagen": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8wk7do",
+      "cartelera": "ACCION",
+      "tiempo": "1h 18min"
+    },
+    {
+      "id": "15",
+      "titulo": "Furiosa: De la saga Mad Max",
+      "imagen": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8uxvqa",
+      "cartelera": "ACCION",
+      "tiempo": "1h 23min"
+    },
+    {
+      "id": "16",
+      "titulo": "Los vigilantes",
+      "imagen": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
+      "video": "https://www.dailymotion.com/video/x8xamlo",
+      "cartelera": "ACCION",
+      "tiempo": "1h 33min"
+    },
+    {
+      "id": "17",
+      "titulo": "Civil War",
+      "imagen": "https://pics.filmaffinity.com/civil_war-397793862-mmed.jpg",
+      "video": "https://www.dailymotion.com/video/x8w4iza",
+      "cartelera": "CIENCIA FICCION",
+      "tiempo": "1h 29min"
+    }
+  ]
+}

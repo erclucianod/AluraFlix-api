@@ -4,7 +4,7 @@
       "id": "1",
       "titulo": "Intensamente",
       "imagen": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
-      "video": "<iframe width="1268" height="713" src='https://www.youtube.com/embed/9bol4Yyx9Gs' title='IntensaMente 2 | Tráiler Final | Doblado' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+      "video": "https://www.youtube.com/watch?v=9bol4Yyx9Gs&ab_channel=DisneyStudiosLA",
       "cartelera": "ANIME",
       "tiempo": "1h 27min"
     },
@@ -12,7 +12,7 @@
       "id": "2",
     "titulo": "Gru 4. Mi villano favorito",
       "imagen": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
-      "video": "1",
+      "video": "https://www.youtube.com/watch?v=I0_qFoptZ4Y&ab_channel=UniversalPicturesM%C3%A9xico",
       "cartelera": "ANIME",
       "tiempo": "1h 19min"
     },
@@ -20,7 +20,7 @@
       "id": "3",
       "titulo": "Orión y la oscuridad",
       "imagen": "https://pics.filmaffinity.com/orion_and_the_dark-484302577-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8rdbup",
+      "video": "https://www.youtube.com/watch?v=cScAQ2O26Y4&ab_channel=Netflix",
       "cartelera": "ANIME",
       "tiempo": "1h 19min"
     },
@@ -28,7 +28,7 @@
       "id": "4",
       "titulo": "Megamind vs. the Doom Syndicate",
       "imagen": "https://pics.filmaffinity.com/megamind_vs_the_doom_syndicate-420951899-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8s1rxw",
+      "video": "https://www.youtube.com/watch?v=UWbYnO5VRFY&ab_channel=ONEMedia",
       "cartelera": "ANIME",
       "tiempo": "1h 32min"
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "titulo": "Telma, la unicornio",
       "imagen": "https://pics.filmaffinity.com/thelma_the_unicorn-206191862-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8wuoys",
+      "video": "https://www.youtube.com/watch?v=P6O_CksfO78&ab_channel=NetflixLatinoam%C3%A9rica",
       "cartelera": "ANIME",
       "tiempo": "1h 34min"
     },
@@ -44,7 +44,7 @@
       "id": "6",
       "titulo": "Amigos imaginarios",
       "imagen": "https://pics.filmaffinity.com/if-160232365-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8wnpxo",
+      "video": "https://www.youtube.com/watch?v=suxpHwb9A3c&ab_channel=PARAMOUNTPICTURESM%C3%89XICO",
       "cartelera": "ANIME",
       "tiempo": "1h 13min"
     },
@@ -52,7 +52,7 @@
       "id": "7",
       "titulo": "Madame Web",
       "imagen": "https://pics.filmaffinity.com/madame_web-759178425-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8pnlnq",
+      "video": "https://www.youtube.com/watch?v=nqOjhXRrehA&ab_channel=SonyPicturesM%C3%A9xico",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 31min"
     },
@@ -60,7 +60,7 @@
       "id": "8",
       "titulo": "Dune: Parte Dos",
       "imagen": "https://pics.filmaffinity.com/dune_part_two-802143593-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8qhz56",
+      "video": "https://www.youtube.com/watch?v=pMe_te9QUa0&ab_channel=WarnerBros.PicturesLatinoam%C3%A9rica",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 47min"
     },
@@ -68,7 +68,7 @@
       "id": "9",
       "titulo": "Atrapados en el abismo",
       "imagen": "https://pics.filmaffinity.com/no_way_up-335653411-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8tcuai",
+      "video": "https://www.youtube.com/watch?v=YF4J9K7UwLs&ab_channel=VenusFilms-Ecuador",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 47min"
     },
@@ -76,7 +76,7 @@
       "id": "10",
       "titulo": "Cazafantasmas: Imperio helado",
       "imagen": "https://pics.filmaffinity.com/ghostbusters_frozen_empire-289306563-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8tok2m",
+      "video": "https://www.youtube.com/watch?v=itP3y0ADBgo&ab_channel=SonyPicturesM%C3%A9xico",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 22min"
     },
@@ -84,7 +84,7 @@
       "id": "11",
       "titulo": "Godzilla y Kong: El nuevo imperio",
       "imagen": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8sr4i4",
+      "video": "https://www.youtube.com/watch?v=rmoneJ_797s&ab_channel=WarnerBros.PicturesLatinoam%C3%A9rica",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 29min"
     },
@@ -92,7 +92,7 @@
       "id": "12",
       "titulo": "Nahir",
       "imagen": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8wwojs",
+      "video": "https://www.youtube.com/watch?v=FWIr6LMCVy0&ab_channel=PrimeVideoLatinoam%C3%A9rica",
       "cartelera": "ACCION",
       "tiempo": "1h 41min"
     },
@@ -100,7 +100,7 @@
       "id": "13",
       "titulo": "Rivales",
       "imagen": "https://pics.filmaffinity.com/challengers-325765300-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8t2umk",
+      "video": "https://www.youtube.com/watch?v=Y6ypuA4udLQ&t=6s&ab_channel=WarnerBros.PicturesEspa%C3%B1a",
       "cartelera": "ACCION",
       "tiempo": "1h 25min"
     },
@@ -108,7 +108,7 @@
       "id": "14",
       "titulo": "En las profundidades del Sena",
       "imagen": "https://pics.filmaffinity.com/sous_la_seine-902824671-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8wk7do",
+      "video": "https://www.youtube.com/watch?v=PoTdomOgHkI&ab_channel=NetflixLatinoam%C3%A9rica",
       "cartelera": "ACCION",
       "tiempo": "1h 18min"
     },
@@ -116,7 +116,7 @@
       "id": "15",
       "titulo": "Furiosa: De la saga Mad Max",
       "imagen": "https://pics.filmaffinity.com/furiosa_a_mad_max_saga-599306128-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8uxvqa",
+      "video": "https://www.youtube.com/watch?v=BUvtEhcuavU&ab_channel=WarnerBros.PicturesLatinoam%C3%A9rica",
       "cartelera": "ACCION",
       "tiempo": "1h 23min"
     },
@@ -124,7 +124,7 @@
       "id": "16",
       "titulo": "Los vigilantes",
       "imagen": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
-      "video": "https://www.dailymotion.com/video/x8xamlo",
+      "video": "https://www.youtube.com/watch?v=ILv6fcNeSWE&ab_channel=WarnerBros.PicturesEspa%C3%B1a",
       "cartelera": "ACCION",
       "tiempo": "1h 33min"
     },
@@ -132,7 +132,7 @@
       "id": "17",
       "titulo": "Civil War",
       "imagen": "https://pics.filmaffinity.com/civil_war-397793862-mmed.jpg",
-      "video": "https://www.dailymotion.com/video/x8w4iza",
+      "video": "https://www.youtube.com/watch?v=aDyQxtg0V2w&ab_channel=A24",
       "cartelera": "CIENCIA FICCION",
       "tiempo": "1h 29min"
     }
